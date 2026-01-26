@@ -82,15 +82,16 @@
 //***10**
 // За допомогою циклу  “for…in” вивести в консоль ключі і значення об*єкта
 
-let user = {};
-user.name = "Роман";
-user.age = 24;
-user.city = "Kyiv";
-//console.log(user);
-delete user.city;
-user["like flovers"] = true;
-//console.log(user);
-for (key in user) {
-    console.log(key);
-    console.log(user[key]);
-}
+// let user = {};
+// user.name = "Роман";
+// user.age = 24;
+// user.city = "Kyiv";
+// //console.log(user);
+// delete user.city;
+// user["like flovers"] = true;
+// //console.log(user);
+// for (key in user) {
+//     console.log(key);
+//     console.log(user[key]);
+// }
+//проверка
