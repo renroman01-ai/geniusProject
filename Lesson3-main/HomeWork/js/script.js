@@ -47,22 +47,14 @@
 
 
 
-const Limit = 100;
-let value; 
+// const Limit = 100;
+// let value; 
 
-do {
-    value = prompt("Введіть число більше " + Limit);
-} while (Number(value) <= Limit);
+// do {
+//     value = prompt("Введіть число більше " + Limit);
+// } while (Number(value) <= Limit);
 
-console.log("Правильно!", value);
-
-
-
-
-
-
-
-
+// console.log("Правильно!", value);
 
 
 
